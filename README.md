@@ -5,13 +5,13 @@
 1. Клонируйте репозиторий:
 
 ```
-git clone https://github.com/your-username/random-user.git
+git https://github.com/KapHullloK/random_user.git
 ```
 
 2. Перейдите в каталог проекта:
 
 ```
-cd random-user
+cd random_user
 ```
 
 3. Настройте переменные окружения:
